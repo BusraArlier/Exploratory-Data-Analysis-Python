@@ -1,5 +1,7 @@
 # Exploratory-Data-Analysis-Python
-Exploratory Data Analysis with Python
+Exploratory Data Analysis with Python 
+
+Visualization with Python
 
 [Notebook Link](https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2F3462639f-5a8c-4132-9447-8728fc876ace%2Fversions%2F5769b58e-02ec-4b3a-bd10-dc7400c02360%2Ffiles%2FDVwithPython.ipynb)
 
